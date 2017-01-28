@@ -21,4 +21,6 @@ The format for the key / value pairs in [Storyblok](https://www.storyblok.com) l
 ```
 
 ## How to use a Datasource.
+<p align="center">
 ![How to use a datasource](https://a.storyblok.com/f/40044/3a239450ea/ezgif-com-10707cd7eb.gif)
+</p>
