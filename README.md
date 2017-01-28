@@ -2,13 +2,6 @@
   <h1 align="center">storyblok-datasources</h1>
   <p align="center">A Collections of Datasources for the develop of website's using <a href="https://www.storyblok.com" target="_blank">Storyblok</a>.</p>
 </p>
-<br>
-<a href="https://travis-ci.org/thomaspink/ng-storyblok">
-  <img src="https://api.travis-ci.org/thomaspink/ng-storyblok.svg?branch=master" alt="travis build" height="20">
-</a>
-<a href="https://badge.fury.io/js/ng-storyblok">
-  <img src="https://badge.fury.io/js/ng-storyblok.svg" alt="npm version" height="20">
-</a>
 <br><br>
 
 ## What is storyblok-datasources
